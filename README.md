@@ -3,7 +3,7 @@
 # DevOps Portfolio — Path Operaciones1
 
 
-[![TP07 CI/CD](https://github.com/TU_USUARIO/devops-TP06/actions/workflows/cicd.yml/badge.svg)](https://github.com/TU_USUARIO/devops-TP06/actions)
+[![TP07 CI/CD](https://github.com/alandariochazarreta-arch/devops-TP06/actions/workflows/cicd.yml/badge.svg)](https://github.com/alandariochazarreta-arch/devops-TP06/actions)
 [![Licencia MIT](https://img.shields.io/badge/licencia-MIT-green.svg)](LICENSE)
 [![Hecho con](https://img.shields.io/badge/hecho%20con-Killercoda%20%2B%20KodeKloud-blue.svg)](https://killercoda.com)
 
@@ -42,28 +42,28 @@ Cada TP tiene un entregable concreto en GitHub que demuestra lo aprendido en pr�
 
 | TP | Proyecto | Tecnologías | Link |
 |---|---|---|---|
-| 1 | Script de automatización del sistema | Bash, cron | [→ ver repo](https://github.com/TU_USUARIO/devops-TP01) |
-| 2 | Gestión de usuarios y permisos | Linux, chmod, useradd | [→ ver repo](https://github.com/TU_USUARIO/devops-TP02) |
-| 3 | Flujo Gitflow completo | Git, GitHub, branching | [→ ver repo](https://github.com/TU_USUARIO/devops-TP03) |
-| 4 | YAML multi-entorno + diagnóstico de red | YAML, bash, ping, dig, curl | [→ ver repo](https://github.com/TU_USUARIO/devops-TP04) |
+| 1 | Script de automatización del sistema | Bash, cron | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP01) |
+| 2 | Gestión de usuarios y permisos | Linux, chmod, useradd | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP02) |
+| 3 | Flujo Gitflow completo | Git, GitHub, branching | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-gitflow) |
+| 4 | YAML multi-entorno + diagnóstico de red | YAML, bash, ping, dig, curl | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP04) |
 
 ### 5 al 8 — Contenedores y CI/CD
 
 | TP | Proyecto | Tecnologías | Link |
 |---|---|---|---|
-| 5 | API Python en Docker | Docker, Flask, Gunicorn | [→ ver repo](https://github.com/TU_USUARIO/devops-TP05) |
-| 6 | App multi-contenedor | Docker Compose, Postgres, Nginx | [→ ver repo](https://github.com/TU_USUARIO/devops-TP06) |
-| 7 | Pipeline CI/CD completo | GitHub Actions, pytest, Docker Hub | [→ ver repo](https://github.com/TU_USUARIO/devops-TP06) |
-| 8 | Stack de monitoreo | Prometheus, Grafana, Node Exporter | [→ ver repo](https://github.com/TU_USUARIO/devops-TP08) |
+| 5 | API Python en Docker | Docker, Flask, Gunicorn | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP05) |
+| 6 | App multi-contenedor | Docker Compose, Postgres, Nginx | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP06) |
+| 7 | Pipeline CI/CD completo | GitHub Actions, pytest, Docker Hub | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP06) |
+| 8 | Stack de monitoreo | Prometheus, Grafana, Node Exporter | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP08) |
 
 ### 9 al 12 — Kubernetes e IaC
 
 | TP | Proyecto | Tecnologías | Link |
 |---|---|---|---|
-| 9 | App en Kubernetes | kubectl, Pods, Deployments, Services | [→ ver repo](https://github.com/TU_USUARIO/devops-TP09) |
-| 10 | Helm Chart + Ingress | Helm, Ingress NGINX, HPA | [→ ver repo](https://github.com/TU_USUARIO/devops-TP10) |
-| 11 | Infraestructura como Código | Terraform, módulos, state | [→ ver repo](https://github.com/TU_USUARIO/devops-TP11) |
-| 12 | Portfolio final | GitHub Actions, integración | [→ este repo](https://github.com/TU_USUARIO/devops-portfolio) |
+| 9 | App en Kubernetes | kubectl, Pods, Deployments, Services | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP09) |
+| 10 | Helm Chart + Ingress | Helm, Ingress NGINX, HPA | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP10) |
+| 11 | Infraestructura como Código | Terraform, módulos, state | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP11) |
+| 12 | Portfolio final | GitHub Actions, integración | [→ este repo](https://github.com/alandariochazarreta-arch/devops-portfolio) |
 
 ---
 
@@ -74,7 +74,7 @@ con todo el stack DevOps aplicado:
 
 Código → GitHub Actions (CI) → Docker Hub → Kubernetes (CD) ↓ Prometheus + Grafana (monitoreo en tiempo real)
 
-**Repo principal:** [devops-TP06](https://github.com/TU_USUARIO/devops-TP06)
+**Repo principal:** [devops-TP06](https://github.com/alandariochazarreta-arch/devops-TP06)
 
 ---
 
