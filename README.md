@@ -21,7 +21,7 @@ Cada TP tiene un entregable concreto en GitHub que demuestra lo aprendido en pr�
 ## Stack tecnológico
 
 |      Categoría           |          Herramientas         |
-|---                       |-                            --|
+|---|---|
 | **OS / Scripting**       | Linux (Ubuntu), Bash          |
 | **Control de versiones** | Git, GitHub, Gitflow          |
 | **Contenedores**         | Docker, Docker Compose        |
@@ -44,7 +44,7 @@ Cada TP tiene un entregable concreto en GitHub que demuestra lo aprendido en pr�
 |---|---|---|---|
 | 1 | Script de automatización del sistema | Bash, cron | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP01) |
 | 2 | Gestión de usuarios y permisos | Linux, chmod, useradd | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP02) |
-| 3 | Flujo Gitflow completo | Git, GitHub, branching | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-gitflow) |
+| 3 | Flujo Gitflow completo | Git, GitHub, branching | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP03) |
 | 4 | YAML multi-entorno + diagnóstico de red | YAML, bash, ping, dig, curl | [→ ver repo](https://github.com/alandariochazarreta-arch/devops-TP04) |
 
 ### 5 al 8 — Contenedores y CI/CD
@@ -72,7 +72,11 @@ Cada TP tiene un entregable concreto en GitHub que demuestra lo aprendido en pr�
 La app que construí TP a TP terminó siendo una aplicación real de notas
 con todo el stack DevOps aplicado:
 
-Código → GitHub Actions (CI) → Docker Hub → Kubernetes (CD) ↓ Prometheus + Grafana (monitoreo en tiempo real)
+```text
+Código → GitHub Actions (CI) → Docker Hub → Kubernetes (CD)
+↓
+Prometheus + Grafana (monitoreo en tiempo real)
+```
 
 **Repo principal:** [devops-TP06](https://github.com/alandariochazarreta-arch/devops-TP06)
 
