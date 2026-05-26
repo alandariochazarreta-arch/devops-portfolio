@@ -30,7 +30,7 @@ jobs:
           REPOS=(
             "devops-TP01"
             "devops-TP02"
-            "devops-TP03"
+            "devops-gitflow"
             "devops-TP04"
             "devops-TP05"
             "devops-TP06"
